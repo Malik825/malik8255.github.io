@@ -2122,6 +2122,13 @@ button {
         height: 250px;
         left: 60%;
     }
+    .new .container{
+        width:95%
+    }
+    .testi-inner{
+        text-align:center;
+        
+    }
     .testi-image .img-bx,
     .testi-image .image-details {
         text-align: center;
